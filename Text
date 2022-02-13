@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>African Swordsmanship | The Art of Sword Fighting</title>
+    <link rel="canonical" href="https://en.wikipedia.org/wiki/Swordsmanship#African_swordsmanship">
+    <!-- CSS -->
+    <link rel="stylesheet" href="main.css">
+    <!-- Mobile format -->
+    <meta name="viewport"content="width=device-width, initial-scale=1">
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+  </head>
+  
+  <body class="home">
+    <header role="banner" class="banner banner--home" id="banner" tabindex="-1">
+      <h1>
+        <a href="index.html">The Art of Sword Fighting</a>
+      </h1>
+    </header>
+     
+    <a id="nav-jump" href="#menu"><b class="hidden">Jump to the</b> menu</a>
+    
+    <main role="main">
+      <h1>African Swordsmanship</h1>
+      <section id="north-africa">
+        <h2>North Africa</h2>
+        <p>The sword in <a href="https://en.wikipedia.org/wiki/Ancient_Egypt">ancient Egypt</a> was known by several names, but most are variations of the words <em>sfet</em>, <em>seft</em> or <em>nakhtui</em>. The earliest bronze swords in the country date back 4000 years. Four types of sword are known to have been used: the <em>ma</em> or <strong>boomerang-sword</strong> based on the hunting stick, the kat or knife-sword, the khopesh or falchion based on the sickle, and a fourth form of straight longsword. The khopesh was used region-wide and is depicted as early as the Sixth Dynasty (3000 BC). It was thick-backed and weighted with bronze, sometimes even with gold hilts in the case of pharaohs. The blade may be edged on one or both sides, and was made from copper alloy, bronze, iron, or blue steel. The double-edge grip-tongue sword is believed to have been introduced by the Sherden and became widely dispersed throughout the Near East. These swords are of various lengths, and were paired with shields. They had a leaf-shaped blade, and a handle which hollows away at the centre and thickens at each end. Middle Eastern swords became dominant throughout North Africa after the introduction of Islam, after which point swordsmanship in the region becomes that of Arabian or Middle Eastern fencing.</p>
+      </section>
+      
+      <section id="sub-saharan-africa">
+        <h2>Sub-Saharan Africa</h2>
+        <p>Among some communities, swords were restricted to royalty or tribal leaders. Forms vary from one area to another, such as the billao of Somalia, boomerang-sword in Niger or the single-edge swords of the Gold Coast. The Abyssinian shotel took the form of a large sickle, like the Egyptian khopesh, with a small 4 <abbr aria-label="inch">in</abbr> wooden handle. The edge was on the inside of the blade, which has a mid-rib running along its entire length. Double-edge swords similar to those of Europe and ancient Arabia occurred in some areas such as the takoba and kaskara. Two types of sword existed in Zanzibar: the foot-long shortsword and the standard sword with a blade measuring 3–3.5 <abbr aria-label="feet">ft</abbr> and a cylindrical pommel. The latter weapon was wielded with both hands like a quarterstaff.</p>
+      </section>
+    </main>
+    
+    <nav id="menu" tabindex="1" role="navigation">
+      <h1 class="hidden">Sword Fighting by Region</h1>
+      <ul>
+        <li>
+          <a href="index.html"><b class="hidden">Return to </b>Main Page</a>
+        </li>
+        <li>
+          <a href="European Swordsmanship.html">European<b class="hidden"> Swordsmanship</b></a>
+        </li>
+        <li>
+          <a href="African Swordsmanship.html">African<b class="hidden"> Swordsmanship</b></a>
+        </li>
+        <li>
+          <a href="Asia.html">Asia</a>
+        </li>
+        <li>
+          <a href="Middle East.html">Middle East</a>
+        </li>
+      </ul>
+    </nav>
+    
+    <footer role="contentinfo">
+      <p id="copyright">All information in this article was sourced from <a href="https://en.wikipedia.org/wiki/Swordsmanship">this</a> Wikipedia page on <time datetime="2021-11-17">November 17 2021</time> under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>.</p>
+    </footer>
+  </body>
+</html>
